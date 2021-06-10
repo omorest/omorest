@@ -1,4 +1,4 @@
 ### Hi there 👋
 
 - 📖  I'm currently studying Computer Science Engineer
-- 🌱  Learning Javascript 
+- 👨🏽‍💻  Working on pet projects
