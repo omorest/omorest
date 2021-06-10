@@ -5,4 +5,4 @@
 
 ---
 
-[![Oscar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omorest)](https://github.com/omorest/github-readme-stats)
+![Oscar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omorest)
