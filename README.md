@@ -11,7 +11,7 @@
 
 ## SKILLS
 <p align="left">
-  <img alt="HTML5" width="70" src="assets/html.svg">
+  <img alt="HTML5" width="60" src="assets/html.svg">
   <img alt="CSS3" width="50" src="assets/css3.svg">
   <img alt="Javascript" width="60" src="assets/js.svg">
   <img alt="Python" width="60" src="assets/python.svg">
@@ -20,7 +20,7 @@
 </p>
 
 <p align="left">
-  <img alt="Node" width="80" src="assets/node.svg">
+  <img alt="Node" width="90" src="assets/node.svg">
   <img alt="expressjs" width="80" src="assets/expressjs.svg">
   <img alt="nginx" width="80" src="assets/nginx.svg">
 </p>
