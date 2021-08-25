@@ -17,9 +17,13 @@
   <img alt="Python" width="60" src="assets/python.svg">
   <img alt="C++" width="60" src="assets/cpp.svg">
   <img alt="Ruby" width="60" src="assets/ruby.svg">
-  <img alt="Node" width="80" src="assets/node.svg">
 </p>
 
+<p align="left">
+  <img alt="Node" width="80" src="assets/node.svg">
+  <img alt="expressjs" width="80" src="assets/expressjs.svg">
+  <img alt="nginx" width="80" src="assets/nginx.svg">
+</p>
 ---
 
 ![Oscar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omorest)
