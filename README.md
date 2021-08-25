@@ -24,6 +24,13 @@
   <img alt="expressjs" width="80" src="assets/expressjs.svg">
   <img alt="nginx" width="80" src="assets/nginx.svg">
 </p>
+
+<p align="left">
+  <img alt="git" width="80" src="assets/git.svg">
+  <img alt="github" width="80" src="assets/github.svg">
+  <img alt="docker" width="80" src="assets/docker.svg">
+  <img alt="bash" width="80" src="assets/bash.svg">
+</p>
 ---
 
 ![Oscar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omorest)
