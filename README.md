@@ -26,6 +26,11 @@
 </p>
 
 <p align="left">
+  <img alt="jest" width="90" src="assets/jest.svg">
+  <img alt="mocha" width="90" src="assets/mocha.svg">
+</p>
+
+<p align="left">
   <img alt="git" width="90" src="assets/git.svg">
   <img alt="github" width="90" src="assets/github.svg">
   <img alt="bash" width="90" src="assets/bash.svg">
@@ -34,9 +39,11 @@
 </p>
 
 <p align="left">
-  <img alt="Vercel" width="80" src="assets/vercel.svg">
-  <img alt="heroku" width="80" src="assets/heroku.svg">
-  <img alt="netlify" width="80" src="assets/netlify.svg">
+  <img alt="vercel" width="80" src="assets/vercel.svg">
+  <img alt="netlify" width="100" src="assets/netlify.svg">
+  <img alt="heroku" width="100" src="assets/heroku-1.svg">
+  
+  
 </p>
 ---
 
