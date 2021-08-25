@@ -27,7 +27,7 @@
 
 <p align="left">
   <img alt="jest" width="90" src="assets/jest.svg">
-  <img alt="mocha" width="90" src="assets/mocha.svg">
+  <img alt="mocha" width="70" src="assets/mocha.svg">
 </p>
 
 <p align="left">
