@@ -26,10 +26,11 @@
 </p>
 
 <p align="left">
-  <img alt="git" width="80" src="assets/git.svg">
-  <img alt="github" width="80" src="assets/github.svg">
-  <img alt="docker" width="80" src="assets/docker.svg">
-  <img alt="bash" width="80" src="assets/bash.svg">
+  <img alt="git" width="90" src="assets/git.svg">
+  <img alt="github" width="90" src="assets/github.svg">
+  <img alt="bash" width="90" src="assets/bash.svg">
+  <img alt="docker" width="70" src="assets/docker.svg">
+  <img alt="bash" width="80" src="assets/githubactions.png">
 </p>
 ---
 
