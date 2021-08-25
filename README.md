@@ -12,7 +12,7 @@
 ## SKILLS
 <p align="left">
   <img alt="HTML5" width="60" src="assets/html.svg">
-  <img alt="CSS3" width="50" src="assets/css3.svg">
+  <img alt="CSS3" width="52" src="assets/css-3.svg">
   <img alt="Javascript" width="60" src="assets/js.svg">
   <img alt="Python" width="60" src="assets/python.svg">
   <img alt="C++" width="60" src="assets/cpp.svg">
@@ -31,6 +31,12 @@
   <img alt="bash" width="90" src="assets/bash.svg">
   <img alt="docker" width="70" src="assets/docker.svg">
   <img alt="bash" width="80" src="assets/githubactions.png">
+</p>
+
+<p align="left">
+  <img alt="Vercel" width="80" src="assets/vercel.svg">
+  <img alt="heroku" width="80" src="assets/heroku.svg">
+  <img alt="netlify" width="80" src="assets/netlify.svg">
 </p>
 ---
 
