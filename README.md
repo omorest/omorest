@@ -22,7 +22,7 @@
 <p align="left">
   <img alt="Node" width="90" src="assets/node.svg">
   <img alt="expressjs" width="80" src="assets/expressjs.svg">
-  <img alt="nginx" width="80" src="assets/nginx.svg">
+<!--   <img alt="nginx" width="80" src="assets/nginx.svg"> -->
 </p>
 
 <p align="left">
