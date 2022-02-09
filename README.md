@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 📖  I'm currently studying Computer Science Engineer
+- 📖  I'm currently finishing my Computer Science Engineer thesis
 - 👨🏽‍💻  Working on pet projects
 
 ## Contact with me 🙋🏽‍♂️
