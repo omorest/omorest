@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 - 📖  I'm currently finishing my Computer Science Engineer thesis
+- 🌱 Learning React
 - 👨🏽‍💻  Working on pet projects
 
 ## Contact with me 🙋🏽‍♂️
