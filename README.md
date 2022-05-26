@@ -14,6 +14,7 @@
   <img alt="HTML5" width="60" src="assets/html.svg">
   <img alt="CSS3" width="52" src="assets/css-3.svg">
   <img alt="Javascript" width="60" src="assets/js.svg">
+  <img alt="Typescript" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png">
   <img alt="Python" width="60" src="assets/python.svg">
   <img alt="C++" width="60" src="assets/cpp.svg">
   <img alt="Ruby" width="60" src="assets/ruby.svg">
@@ -33,17 +34,16 @@
 <p align="left">
   <img alt="git" width="90" src="assets/git.svg">
   <img alt="github" width="90" src="assets/github.svg">
-  <img alt="bash" width="90" src="assets/bash.svg">
-  <img alt="docker" width="70" src="assets/docker.svg">
+<!--   <img alt="bash" width="90" src="assets/bash.svg"> -->
+<!--   <img alt="docker" width="70" src="assets/docker.svg"> -->
   <img alt="bash" width="80" src="assets/githubactions.png">
 </p>
 
-<p align="left">
+<p>
   <img alt="vercel" width="80" src="assets/vercel.svg">
-  <img alt="netlify" width="100" src="assets/netlify.svg">
+  </br>
+<!--   <img alt="netlify" width="100" src="assets/netlify.svg"> -->
   <img alt="heroku" width="100" src="assets/heroku-1.svg">
-  
-  
 </p>
 
 ---
