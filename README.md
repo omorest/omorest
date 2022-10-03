@@ -14,4 +14,5 @@
 
 ---
 
-![Oscar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omorest&theme=dracula&show_icons=true)
+
+![Oscar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omorest&theme=dracula)
