@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 - 💻 Computer Science Engineer
-- 👨🏽‍💻 Working at The Agile Monkeys
 - 💘 Passionate about learning good practices, architectures, testing, etc.
 - 🌱 Actually improving my knowledges in frontend development.
 
