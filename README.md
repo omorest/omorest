@@ -2,7 +2,7 @@
 
 - 💻 Computer Science Engineer
 - 💘 Passionate about learning good practices, architectures, testing, etc.
-- 🌱 Actually improving my knowledges in frontend development.
+- 🌱 Learning something every day.
 
 
 ## Contact with me 🙋🏽‍♂️
